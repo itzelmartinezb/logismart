@@ -1,0 +1,31 @@
+id,correo,categoria_humana,prioridad_humana
+1,"CAM-101 tiene autorización y certificación vigente.",acceso,BAJA
+2,"CAM-102 llegó con peso excedido en báscula.",peso,MEDIA
+3,"CAM-103 transporta material peligroso.",peligroso,ALTA
+4,"Se reporta accidente en patio de maniobras.",accidente,CRITICA
+5,"Se solicita información del acceso.",general,BAJA
+6,"La báscula detectó exceso de peso en CAM-104.",peso,MEDIA
+7,"CAM-105 no aparece autorizado.",acceso,MEDIA
+8,"Hay fuga de material químico en CAM-106.",peligroso,CRITICA
+9,"Retraso de proveedor en la entrada.",general,BAJA
+10,"Choque entre unidades cerca de la puerta.",accidente,CRITICA
+11,"CAM-111 tiene autorización y certificación vigente.",acceso,BAJA
+12,"CAM-112 llegó con peso excedido en báscula.",peso,MEDIA
+13,"CAM-113 transporta material peligroso.",peligroso,ALTA
+14,"Se reporta accidente en patio de maniobras.",accidente,CRITICA
+15,"Se solicita información del acceso.",general,BAJA
+16,"La báscula detectó exceso de peso en CAM-114.",peso,MEDIA
+17,"CAM-115 no aparece autorizado.",acceso,MEDIA
+18,"Hay fuga de material químico en CAM-116.",peligroso,CRITICA
+19,"Retraso de proveedor en la entrada.",general,BAJA
+20,"Choque entre unidades cerca de la puerta.",accidente,CRITICA
+21,"CAM-121 tiene autorización y certificación vigente.",acceso,BAJA
+22,"CAM-122 llegó con peso excedido en báscula.",peso,MEDIA
+23,"CAM-123 transporta material peligroso.",peligroso,ALTA
+24,"Se reporta accidente en patio de maniobras.",accidente,CRITICA
+25,"Se solicita información del acceso.",general,BAJA
+26,"La báscula detectó exceso de peso en CAM-124.",peso,MEDIA
+27,"CAM-125 no aparece autorizado.",acceso,MEDIA
+28,"Hay fuga de material químico en CAM-126.",peligroso,CRITICA
+29,"Retraso de proveedor en la entrada.",general,BAJA
+30,"Choque entre unidades cerca de la puerta.",accidente,CRITICA

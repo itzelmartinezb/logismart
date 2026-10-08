@@ -1,0 +1,7 @@
+pymongo>=4.8,<5
+ollama>=0.4,<1
+pydantic>=2.8,<3
+python-dotenv>=1.0,<2
+pandas>=2.2,<3
+matplotlib>=3.9,<4
+reportlab>=4.2,<5
